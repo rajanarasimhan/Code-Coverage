@@ -14,3 +14,5 @@ To read more about it check out:
 etc.
 
 Here I have made a basic XOR neural net in numpy. So there are two python codes predict.py and testr.py. The first one is where I have made the neural net code and testr.py I import that function to do code coverage.
+
+codecoverage.JPG file shows the procedure I used
